@@ -1,0 +1,11 @@
+{
+    "name": "vgrcic/thumb-factory",
+    "description": "Package for managing images and thumbnails",
+    "authors": [
+        {
+            "name": "Veselin Grcic",
+            "email": "vgrcic@hotmail.com"
+        }
+    ],
+    "require": {}
+}
