@@ -7,5 +7,10 @@
             "email": "vgrcic@hotmail.com"
         }
     ],
+    "autoload": {
+        "psr-4": {
+            "Vgrcic\\ThumbFactory\\": "src/"
+        }
+    },
     "require": {}
 }
